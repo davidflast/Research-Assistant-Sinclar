@@ -1,0 +1,190 @@
+"","lastname","firstname","gender","rank","affiliation","expectedGrad","recStatus","recRank","RecAffiliation","fundRank","fundAffiliation","app_disposition","plantoattend","regStatus","mobility","regStatus","paypal_amount_rcvd","year"
+"1","","","he","Graduate student","","","","","","","","","Yes","Pending","","Pending","",2009
+"2","Achen","Christopher","he","Professor","Princeton University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"3","Ahlquist","John","he","other","UCLA","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"4","Altman","Micah","he","other","Harvard U.","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"5","alvarez","michael","he","Professor","Caltech","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"6","Anastasopoulos","Jason","he","Graduate student","University of California, Berkeley","Fall 2011 or later","received","Associate Professor","UC-Berkeley","Associate Professor","UC-Berkeley","Accepted","Yes","Complete","","Complete","",2009
+"7","Arceneaux","Kevin ","he","Assistant professor","Temple University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"8","Arceneaux","Kevin","he","Assistant professor","Temple University","","","","","","","","Yes","Pending","","Pending","",2009
+"9","Bachner","Jennifer","she","Graduate student","Harvard University","Spring 2010","received","Professor","Harvard University","Graduate Program Administrator","Harvard Univesity","Accepted","Yes","Complete","","Complete","250.00",2009
+"10","Bafumi","Joseph","he","Assistant professor","Dartmouth","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"11","Bhavnani","Rikhil","he","Graduate student","Stanford University","Spring 2010","received","Assistant Professor","Stanford University","Administrator","Stanford University","Accepted","Yes","Complete","","Complete","",2009
+"12","Biggers","Daniel","he","Graduate student","University of Maryland, College Park","","","","","","","","Yes","Complete","none","Complete","250.00",2009
+"13","Blackwell","Matthew","he","Graduate student","Harvard University","Spring 2010","received","Professor","Harvard University","Professor","Harvard University","Accepted","Yes","Complete","","Complete","",2009
+"14","Bohlken","Anjali","she","Graduate student","New York University","Spring 2010","received","Prof.","NYU","Prof.","NYU","Accepted","Yes","Complete","","Complete","",2009
+"15","Bonica","Adam","he","Graduate student","New York University","Spring 2011","received","Professor","New York University","","NYU","Accepted","Yes","Complete","","Complete","",2009
+"16","Bowers","Jake","he","Assistant professor","University of Illinois at Urbana-Champaign","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"17","Boydstun","Amber","she","Assistant professor","UC Davis","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"18","Brady","Henry","he","Professor","UC Berkeley","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"19","Brancati","Dawn","she","Assistant professor","Washington University in St Louis","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"20","Brandt","Patrick","he","Assistant professor","University of Texas, Dallas","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"21","Brogan","Michael","he","Graduate student","CUNY - Graduate Center","","","","","","","Accepted","Yes","Complete","","Complete","250.00",2009
+"22","Buckley","Jack","he","Associate professor","NYU","","","","","","","","Yes","Complete","none","Complete","250.00",2009
+"23","Bullock","Will","he","Graduate student","Princeton University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"24","Bullock","John","he","Assistant professor","Yale","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"25","Butler","Daniel","he","Assistant professor","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"26","Carsey","Tom","he","Professor","University of North Carolina - Chapel Hill","","","","","","","","Yes","Complete","None","Complete","250.00",2009
+"27","Caughey","Devin","he","Graduate student","UC Berkeley","Fall 2010 or later","received","Associate Professor","UC-Berkeley","Graduate Student Advisor","UC Berkeley","Accepted","Yes","Complete","","Complete","",2009
+"28","Chiba","Daina","he","Graduate student","Rice University","Spring 2011","received","Associate Professor","Rice University","Associate Professor","Rice University","Accepted","Yes","Complete","","Complete","250.00",2009
+"29","Cho","Wendy","she","Associate professor","University of Illinois at Urbana-Champaign","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"30","Chod","Suzanne","she","other","The Pennsylvania State University","","","","","","","","Yes","Complete","","Complete","250",2009
+"31","Christenson","Dino","he","Graduate student","Ohio State University","Spring 2010","received","Professor","Ohio State University","Professor / Dept Chair","Ohio State University","Accepted","Yes","Complete","","Complete","250.00",2009
+"32","Cizmar","Anne","she","Graduate student","The University of Maryland","Spring 2010","received","Assistant Professor","University of Maryland College Park","Assistant Professor","University of Maryland College Park","Accepted","Yes","Complete","","Complete","0",2009
+"33","Clarke","Harold","he","Professor","National Science","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"34","Condon","Meghan","she","Graduate student","University of Wisconsin, Madison","Spring 2011","received","Professor of Political Science","University of Wisconsin-Madison","Professor of Political Science","University of Wisconsin-Madison","Accepted","Yes","Complete","","Complete","250.00",2009
+"35","Corrigan","Bryce","he","Graduate student","University of Michigan","Spring 2010","received","Professor of Political Science","University of Michigan","Ph.D. Candidate","University of Michigan","Accepted","Yes","Complete","","Complete","",2009
+"36","Cranmer","Skyler","he","Assistant professor","University of North Carolina, Chapel Hill","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"37","De La O","Ana","she","Assistant professor","Yale","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"38","Deschamps","Lauren","she","Graduate student","University of Notre Dame","Spring 2010","received","Assistant Professor","University of Notre Dame","Assistant Professor","University of Notre Dame","Accepted","Yes","Complete","","Complete","",2009
+"39","Desmarais","Bruce","he","Graduate student","University of North Carolina at Chapel Hill","Spring 2010","received","Professor","University of North Carolina - Chapel Hill","Dawson professor","University of North Carolina","Accepted","Yes","Complete","","Complete","",2009
+"40","Dion","Michelle ","she","Assistant professor","Georgia Tech/McMaster University","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"41","Dunning","Thad","he","Assistant professor","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"42","Eggers","Andrew","he","Graduate student","Harvard University","Spring 2010","received","Associate Professor","Harvard","Graduate Program Administrator","Harvard University","Accepted","Yes","Complete","","Complete","",2009
+"43","Ellis","Cali","she","Graduate student","University of Michigan","Fall 2010 or later","received","Professor","University of Michigan","","","Accepted","Yes","Complete","","Complete","",2009
+"44","Erikson","Robert","he","Professor","Columbia University","","","","","","","","Yes","Pending","","Pending","",2009
+"45","Erikson","Robert ","he","Professor","Columbia University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"46","Esarey","Justin","he","Assistant professor","Emory University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"47","Folke","Olle","he","Graduate student","IIES, Stockholm University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"48","Franzese","Robert","he","Professor","University of Michigan","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"49","Fredrickson","Mark","he","Graduate student","University of Illinois at Urbana-Champaign","Fall 2010 or later","received","Asst Prof","University of Illinois","Associate Professor","University of Illinois at Urbana-Champaign","Accepted","Yes","Complete","","Complete","",2009
+"50","Freeman","John ","he","Professor","University of Minnesota","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"51","Freeze","Melanie","she","Graduate student","Duke University","Fall 2010 or later","received","Pfizer-Pratt University Professor","Duke University","Pfizer-pratt University Professor","Duke University","Accepted","Yes","Complete","","Complete","250.00",2009
+"52","Fukumoto","Kentaro","he","Professor","Gakushuin University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"53","Gasper","John","he","other","University of Pennsylvania","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"54","Gill","Jeff","he","Professor","Washington University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"55","Glynn","Adam","he","Assistant professor","Harvard University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"56","Goelzhauser","Greg","he","Graduate student","Florida State University","Spring 2010","received","Syde P. Deeb Eminent Scholar","Florida State University","LeRoy Collins Professor","Florida State University","Accepted","Yes","Complete","","Complete","",2009
+"57","Goodliffe","Jay","he","Associate professor","Brigham Young University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"58","Goodrich","Benjamin","he","Graduate student","Harvard","Spring 2010","received","Associate Professor","Harvard","Grad Student","Harvard","Accepted","Yes","Complete","","Complete","250.00",2009
+"59","Green","Donald","he","Professor","Yale University","","","","","","","","Yes","Pending","","Pending","",2009
+"60","Green","Donald","he","Professor","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"61","Greenhill","Brian","he","Graduate student","University of Washington","Spring 2010","received","Professor","University of Washington","Professor","University of Washington","Accepted","Yes","Complete","N/A","Complete","",2009
+"62","Grimmer","Justin","he","Graduate student","Harvard University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"63","Gross","Justin","he","Graduate student","Carnegie Mellon University","Fall 2009","received","Assistant Professor of Political Science","University of Pittsburgh","Professor","Carnegie Mellon University","Accepted","Yes","Complete","","Complete","250.00",2009
+"64","Gutiérrez","Bernabé","he","other","","","","","","","","","Yes","Pending","","Pending","",2009
+"65","Hainmueller","Jens","he","Assistant professor","MIT","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"66","Hangartner","Dominik","he","Graduate student","University Bern and Washington University in St. Louis","Fall 2010","received","Professor","University of Bern, Switzerland","Professor","University of Bern, Switzerland","Accepted","Yes","Complete","","Complete","",2009
+"67","Hanmer","Michael","he","Assistant professor","University of Maryland at College Park","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"68","Hansen","Ben","he","Assistant professor","University of Michigan","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"69","Haptonstahl","Stephen","he","Graduate student","Wash U / UC Davis","Spring 2009","received","Professor of Political Science","Washington University in St. Louis","Graduate student / starting assistant professor","Washington University in St Louis / UC Davis","Accepted","Yes","Complete","none","Complete","",2009
+"70","Harden","Jeffrey","he","Graduate student","University of North Carolina at Chapel Hill","Fall 2010 or later","received","Professor","University of North Carolina - Chapel Hill","Professor","University of North Carolina - Chapel Hill","Accepted","Yes","Complete","","Complete","250.00",2009
+"71","Hartman","Erin","she","Graduate student","University of California at Berkeley","Fall 2010 or later","received","Associate Professor","UC-Berkeley","Associate Professor","UC-Berkeley","Accepted","Yes","Complete","","Complete","",2009
+"72","Hays","Jude","he","Assistant professor","University of Illinois","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"73","Hendry","David","he","Graduate student","University of Illinois at Urbana-Champaign","Spring 2010","received","associate professor","university of illinois at urbana-champaign","James M. Benson Chair","University of Illinois","Accepted","Yes","Complete","","Complete","250.00",2009
+"74","Hidalgo","Fernando","he","Graduate student","UC Berkeley","Spring 2010","received","Associate Professor","UC-Berkeley","Associate Professor","UC-Berkeley","Accepted","Yes","Complete","","Complete","",2009
+"75","Hill","Seth","he","Graduate student","University of California, Los Angeles","Spring 2010","received","Associate Professor","UCLA","Ph.D. Candidate","University of California, Los Angeles","Accepted","Yes","Complete","","Complete","",2009
+"76","Hofmann","Tobias","he","Graduate student","College of William & Mary","Fall 2009","received","Assistant Professor","University of Maryland","Graduate student/visiting instructor","College of William & Mary","Accepted","Yes","Complete","","Complete","250.00",2009
+"77","Honaker","James","he","other","Penn State","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"78","Honda","Eric","he","other","","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"79","Hopkins","Daniel","he","other","Harvard University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"80","Horiuchi","Yusaku","he","other","The Australian National University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"81","Hosek","Adrienne ","she","Graduate student","University of California Berkeley","","","","","","","","Yes","Pending","","Pending","",2009
+"82","Iida","Rentaro ","he","Graduate student","Georgetown University","Fall 2010 or later","received","Associate Professor","Georgetown University","Graduate Student","Georgetown University","Accepted","Yes","Complete","","Complete","250.00",2009
+"83","Imai","Kosuke","he","Assistant professor","Imai","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"84","Incantalupo","Matthew","he","Graduate student","Princeton University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"85","Ivanchenko","Roman","he","other","","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"86","Jackson","John","he","Professor","Jackson","","","","","","","","Yes","Complete","none","Complete","250.00",2009
+"87","Jessee","Stephen","he","Assistant professor","University of Texas","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"88","Jo","Hyeran","she","Assistant professor","Texas A&M University","","","","","","","Accepted","Yes","Complete","none","Complete","",2009
+"89","Joyce","Kyle","he","Assistant professor","University of California, Davis","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"90","Jusko","Karen","she","Assistant professor","Stanford University","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"91","Kachi","Aya","she","Graduate student","University of Illinois","Fall 2010 or later","received","associate professor","university of illinois at urbana-champaign","associate Professor","university of Illinois at Urbana-Champaign","Accepted","Yes","Complete","","Complete","",2009
+"92","Kalkan","Kerem","he","Graduate student","University of Maryland","Spring 2010","received","Assistant Professor","University of Maryland College Park","Assistant Professor","University of Maryland College park","Accepted","Yes","Complete","","Complete","250.00",2009
+"93","Katz","Gabriel","he","Graduate student","California Institute of Technology","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"94","Katz","Gabriel","he","Graduate student","California Institute of Technology","","","","","","","","Yes","Pending","","Pending","",2009
+"95","Katz","Jonathan","he","Professor","California Institute of Technology","","","","","","","","Yes","Complete","none","Complete","250.00",2009
+"96","Kedziora","Jeremy","he","Graduate student","University of Rochester","Spring 2010","received","Associate Professor","University of Rochester","Associate Professor","University of Rochester","Accepted","Yes","Complete","","Complete","",2009
+"97","Keele","Luke ","she","Assistant professor","Ohio State","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"98","Kellstedt","Paul","he","Associate professor","Texas A&M University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"99","Kern","Holger","he","other","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"100","King","Gary","he","Professor","Harvard University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"101","Kittilson","Miki Caul","she","Associate professor","Arizona State University","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"102","Kropko","Jonathan","he","Graduate student","University of North Carolina at Chapel Hill","Spring 2010","received","Burton Craige Professor","UNC","Professor","University of North Carolina - Chapel Hill","Accepted","Yes","Complete","","Complete","",2009
+"103","Ladd","Jonathan","he","Assistant professor","Georgetown University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"104","Lam","Patrick","he","Graduate student","Harvard University","Fall 2010 or later","received","Professor","Harvard University","Professor","Harvard University / Institute of Quantitative Social Science","Accepted","Yes","Complete","","Complete","",2009
+"105","Lauderdale","Benjamin","he","Graduate student","Princeton","Spring 2010","pending","","","PhD Candidate","Princeton University","Accepted","Yes","Complete","","Complete","250.00",2009
+"106","Lee","Byung-Jae","he","Graduate student","The University of Texas at Austin","Spring 2010","received","Associate professor","University of Texas at Austin","Graduate Student","The University of Texas at Austin","Accepted","Yes","Complete","","Complete","",2009
+"107","Lenz","Gabriel","he","Assistant professor","MIT","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"108","Levin","Inés","she","Graduate student","California Institute of Technology","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"109","Levy","Morris ","he","Graduate student","UC Berkeley","Fall 2010 or later","received","Associate Professor","UC-Berkeley","Associate Professor","UC-Berkeley","Accepted","Yes","Complete","","Complete","",2009
+"110","Licht","Amanda","she","Graduate student","University of Iowa","Fall 2009","received","Associate Professor","University of Iowa","Associate Professor","University of Iowa","Accepted","Yes","Complete","","Complete","",2009
+"111","Linzer","Drew","he","Assistant professor","Emory University","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"112","Liu","Chifeng","he","Graduate student","University of South Carolina","Fall 2010","received","Professor","University of South Carolina","Ph.D. Student","University of South Carolina","Accepted","Yes","Complete","","Complete","250.00",2009
+"113","Lo","Nigel","he","Graduate student","Emory University","Spring 2011","received","Assistant Professor","Emory University","Assistant Professor","Emory University","Accepted","Yes","Complete","","Complete","",2009
+"114","Londregan","John","he","Professor","Princeton University ","","","","","","","","Yes","Complete","none","Complete","250.00",2009
+"115","MacMillan","William","he","Graduate student","University of Michigan","Spring 2010","received","Professor","Michigan","Professor","University of Michigan","Accepted","Yes","Complete","","Complete","",2009
+"116","Malecki","Michael","he","Graduate student","Washington University in St. Louis","Spring 2010","received","Professor of Law and Political Science","Washington University in St. Louis","Professor of Political Science and Law","Washington University in St. Louis","Accepted","Yes","Complete","","Complete","250.00",2009
+"117","Martin","Andrew","he","Professor","Washington University in St. Louis","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"118","Mayer","Alex","he","Graduate student","U.C. Davis","Spring 2011","received","Professor","UC Davis","Professor","UC Davis","Accepted","Yes","Complete","","Complete","",2009
+"119","McFarland","Thomson","he","other","","","","","","","","","Yes","Pending","","Pending","",2009
+"120","McFarland","Thomson","he","other","Department of Defense","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"121","McFarland","Thomson","he","other","Department of Defense","","","","","","","","Yes","Pending","","Pending","",2009
+"122","Mebane","Walter","he","Professor","University of Michigan","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"123","Middleton","Joel","he","Graduate student","Yale University","Spring 2010","received","Professor","Yale","Professor","Yale","Accepted","Yes","Complete","","Complete","250.00",2009
+"124","Miller","Michael","he","Graduate student","Cornell University","Spring 2010","received","Professor","University of Michigan","John L. Senior Professor of American Institutions","Cornell University","Accepted","Yes","Complete","","Complete","250.00",2009
+"125","Min","Brian","he","Graduate student","UCLA","Spring 2009","received","Professor","UCLA","PhD candidate","UCLA","Accepted","Yes","Complete","","Complete","",2009
+"126","Monogan","James","he","Graduate student","The University of North Carolina at Chapel Hill","Fall 2009","received","Burton Craige Professor","UNC","Professor","University of North Carolina - Chapel Hill","Accepted","Yes","Complete","n/a","Complete","250.00",2009
+"127","Monroe","Burt","he","Associate professor","Penn State","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"128","Montgomery","Jacob","he","Graduate student","Duke University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"129","Moore","Ryan","he","Assistant professor","Washington University in St Louis","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"130","Mullin","Megan","she","Assistant professor","Temple University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"131","nagler","jonathan","he","Professor","NYU","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"132","Nakajo","Miwa","she","Graduate student","Texas A&M University","Spring 2010","received","Associate Professor","Texas A&M University","Associate Professor","Texas A&M University","Accepted","Yes","Complete","ASL interpreting or CART services are needed.","Complete","0",2009
+"133","Nickerson","David","he","Assistant professor","University of Notre Dame","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"134","Nielsen","Richard","he","Graduate student","Harvard University","Fall 2010 or later","received","Professor","Harvard University","Graduate Program Administrator","Department of Government, Harvard University","Accepted","Yes","Complete","","Complete","",2009
+"135","Noel","Hans","he","other","University of Michigan","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"136","Okulicz-Kozaryn","Adam","he","Graduate student","Harvard","Fall 2009","received","Senior Research Scientist","Institute for Quantitative Social Science, Harvard University","Financial Administrator","IQSS/Harvard University","Accepted","Yes","Complete","n/a","Complete","250.00",2009
+"137","Owen","Erica","she","Graduate student","University of Minnesota","Spring 2010","received","McKnight U. Prof","University of Minnesota","Assistant Professor","University of Minnesota","Accepted","Yes","Complete","","Complete","",2009
+"138","Palmer","Harvey","he","Associate professor","University at Buffalo, SUNY","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"139","Panagopoulos","Costas","he","Assistant professor","Fordham University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"140","Pang","Xun","she","Graduate student","Washington University in St. Louis","Spring 2010","received","Professor/Director","Washington University","Professor/Director","Washington University","Accepted","Yes","Complete","","Complete","250.00",2009
+"141","Park","Sunhee","she","Graduate student","Florida State University","Spring 2010","received","Professor","Florida Stat University","Associate Professor and Chair","Florida State University","Accepted","Yes","Complete","","Complete","250.00",2009
+"142","Park","Jong Hee","he","Assistant professor","University of Chicago","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"143","Parker-Stephen","Evan","he","Assistant professor","Texas A&M University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"144","Peress","Michael","he","Assistant professor","University of Rochester","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"145","Poast","Paul","he","Graduate student","University of Michigan","Spring 2010","received","Professor","University of Michigan","Professor","University of Michigan","Accepted","Yes","Complete","","Complete","250.00",2009
+"146","Powell","Eleanor","she","Assistant professor","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"147","Powell","Scott","he","Graduate student","The Ohio State University","Spring 2010","received","Assistant Professor","The Ohio State University","Professor & Dept Chair","Ohio State University","Accepted","Yes","Complete","","Complete","250.00",2009
+"148","Ramey","Adam","he","Graduate student","University of Rochester","Spring 2010","received","Associate Professor","University of Rochester","Associate Professor","University of Rochester","Accepted","Yes","Complete","","Complete","250.00",2009
+"149","Ramirez","Mark","he","Graduate student","Texas A&M University","Fall 2009","received","Associate Professor","Texas A&M University","Associate Professor","Texas A&M University","Accepted","Yes","Complete","","Complete","",2009
+"150","Ratkovic","Marc","he","Graduate student","University of Wisconsin, Madison","Fall 2009","received","Professor","University of Wisconsin","Professor of Political Science","University of Wisconsin-Madison","Accepted","Yes","Complete","","Complete","",2009
+"151","Reinhardt","Gina Yannitell","she","Assistant professor","Texas A&M University","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"152","Rydberg","James","he","Graduate student","University of Iowa","Spring 2010","received","Associate Professor","University of Iowa","Graduate Student","University of Iowa","Accepted","Yes","Complete","","Complete","250.00",2009
+"153","Samii","Cyrus","he","Graduate student","Columbia University","Fall 2010 or later","received","Associate Professor","Columbia University","PhD Candidate","Columbia University Political Science","Accepted","Yes","Complete","None","Complete","250.00",2009
+"154","Scheve","Ken","he","Professor","Yale University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"155","Schrodt","Philip","he","Professor","Pennsylvania State University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"156","Sekhon","Jasjeet","he","Associate professor","UC Berkeley","","","","","","","","Yes","Pending","","Pending","",2009
+"157","Sekhon","Jasjeet","he","Associate professor","UC Berkeley","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"158","Sen","Maya","she","Graduate student","Harvard University","Spring 2010","received","Associate Professor","Harvard","Graduate Program Administrator","Harvard University","Accepted","Yes","Complete","None","Complete","",2009
+"159","Sin","Gisela","she","Assistant professor","University of Illinois at Urbana-Champaign","","","","","","","Accepted","Yes","Complete","None","Complete","",2009
+"160","Sinclair","Betsy","she","Assistant professor","University of Chicago","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"161","Siroky","David","he","Graduate student","Duke University","Spring 2009","received","Full Professor","Duke University","Professor","Duke University","Accepted","Yes","Complete","","Complete","",2009
+"162","Siroky","Lenka","she","Graduate student","Duke University","Spring 2010","received","Pfizer-Pratt University Professor","Duke University","Professor","Duke University","Accepted","Yes","Complete","","Complete","250.00",2009
+"163","Socker","Erica","she","Graduate student","Texas A&M University","Spring 2011","received","Associate Professor","Texas A&M University","Associate Professor","Texas A&M University","Accepted","Yes","Complete","","Complete","",2009
+"164","Sovey","Allison","she","Graduate student","Yale University","Fall 2010 or later","received","Professor","Yale University","Professor","Yale University","Accepted","Yes","Complete","","Complete","250.00",2009
+"165","Spirling","Arthur","he","Assistant professor","Harvard University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"166","Stanig","Piero","he","other","London School of Economics","","","","","","","","Yes","Pending","","Pending","",2009
+"167","Stanig","Piero","he","other","London School of Economics","","","","","","","","Yes","Pending","","Pending","",2009
+"168","Stanig","Piero","he","other","London School of Economics","","","","","","","","Yes","Complete","","Complete","",2009
+"169","stevenson","randy","he","Associate professor","Rice University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"170","Stewart","Marianne","she","Professor","American Journal of Political Science-UTDallas","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"171","Tahk","Alexander","he","Graduate student","Stanford University","Spring 2010","received","Professor","Stanford","Ph.D. Candidate","Stanford University","Accepted","Yes","Complete","","Complete","250.00",2009
+"172","Therriault","Andrew","he","Graduate student","New York University","Spring 2011","received","Professor","New York University","Professor","New York University","Accepted","Yes","Complete","n/a","Complete","250.00",2009
+"173","Tingley","Dustin","he","Graduate student","Princeton","Spring 2010","received","Assistant Professor","Princeton University","Assistant Professor","Princeton University","Accepted","Yes","Complete","","Complete","250.00",2009
+"174","Treier","Shawn","he","Assistant professor","University of Minnesota","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"175","Victor","Jennifer Nicoll","she","Assistant professor","University of Pittsburgh","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"176","Wawro","Gregory","he","Associate professor","Columbia University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"177","Wendel","Stephen","he","Graduate student","University of Maryland","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"178","Whang","Taehee","he","Assistant professor","Texas A&M University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"179","Whang","Taehee","he","Assistant professor","Texas A&M University","","","","","","","","Yes","Pending","","Pending","",2009
+"180","Whitten","Guy","he","Associate professor","Texas A&M University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"181","Whitten-Woodring","Jenifer","she","Graduate student","University of Southern California","Fall 2009","received","Professor","USC","Professor","USC","Accepted","Yes","Complete","","Complete","",2009
+"182","Whitten-Woodring","Jenifer ","she","Graduate student","University of Southern California","","","","","","","","Yes","Pending","","Pending","",2009
+"183","Wichowsky","Amber","she","Graduate student","University of Wisconsin-Madison","Spring 2010","received","Professor of Political Science","University of Wisconsin-Madison","Professor of Political Science","University of Wisconsin-Madison","Accepted","Yes","Complete","","Complete","250.00",2009
+"184","Wilson","Carole","she","Assistant professor","University of Texas at Dallas","","","","","","","Accepted","Yes","Complete","","Complete","",2009
+"185","Wood","Dan","he","Professor","B. Dan Wood","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"186","Xiang","Jun","he","Graduate student","University of Rochester","Spring 2010","received","Associate Professor","University of Rochester","Associate Professor","University of Rochester","Accepted","Yes","Complete","wireless","Complete","250.00",2009
+"187","Yamamoto","Teppei","he","Graduate student","Princeton University","Spring 2011","received","Assistant Professor","Princeton","Assistant Professor","Princeton","Accepted","Yes","Complete","","Complete","",2009
+"188","Zorn","Christopher","he","Professor","Pennsylvania State University","","","","","","","","Yes","Complete","","Complete","250.00",2009
+"189","Zorn","Christopher","he","Professor","Pennsylvania State University","","","","","","","","Yes","Pending","","Pending","",2009
