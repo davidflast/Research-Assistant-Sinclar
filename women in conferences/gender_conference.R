@@ -122,7 +122,36 @@ percentstudent = womenstudent / (menstudent + womenstudent)
 nine = c(percentwomen,numwomen,total,percentposter,womenposter,percentpanel,
           womenpanel,percentprof,womenprof,percentassist,womenassist,percentstudent,
           womenstudent)
+#2010
+gender = as.character(reg2010[,10] )
+gender = gsub("she", "female", gender)
+gender = gsub("he", "male", gender)
+rank = as.character(reg2010[,11])
+role = as.character(reg2010[,19])
+numwomen = length(which(gender == "female"))
+nummen = length(which(gender == "male"))
+total = numwomen + nummen
+percentwomen = numwomen / total
+womenposter = length(which(gender=="female" & role =="poster"))
+menposter = length(which(gender== "male" & role =="poster"))
+percentposter = womenposter / (menposter + womenposter)
+womenpanel = length(which(gender=="female" & role =="paper"))
+menpanel = length(which(gender=="male" & role =="paper"))
+percentpanel = womenpanel/ (me.npanel + womenpanel)
+menprof = length(which(gender=="male" & (rank =="Professor" | rank == "Associate professor")))
+womenprof = length(which(gender=="female" & (rank =="Professor" | rank == "Associate professor")))
+percentprof = womenprof / (menprof + womenprof)
+menassist = length(which(gender=="male" & rank =="Assistant professor"))
+womenassist = length(which(gender=="female" & rank =="Assistant professor"))
+percentassist = womenassist/(menassist + womenassist)
+menstudent = length(which(gender=="male" & rank =="Graduate student"))
+womenstudent = length(which(gender=="female" & rank =="Graduate student"))
+percentstudent = womenstudent / (menstudent + womenstudent)
 
+ten = c(percentwomen,numwomen,total,percentposter,womenposter,percentpanel,
+           womenpanel,percentprof,womenprof,percentassist,womenassist,percentstudent,
+           womenstudent)
+ten
 #2011
 gender = as.character(regdata2011[,11] )
 gender = gsub("she", "female", gender)
@@ -278,6 +307,15 @@ percentstudent = womenstudent / (menstudent + womenstudent)
 fifthteen = c(percentwomen,numwomen,total,percentposter,womenposter,percentpanel,
              womenpanel,percentprof,womenprof,percentassist,womenassist,percentstudent,
              womenstudent)
-fifthteen
+#2016
+studentgender = as.character(registration_students[,13])
+studentgender[agrep("Women", studentgender)] = "female"
+studentgender[agrep("Men", studentgender)] = "male"
 
-
+facultygender = as.character(registration_faculty[,13])
+facultygender[agrep("Women", facultygender)] = "female"
+facultygender[agrep("Men",facultygender)] = "male"
+rank = as.character(registration_faculty[,4])
+length(which(studentgender == "female")) + length(which(facultygender == "female"))
+length(which(studentgender == "male")) + length(which(facultygender =="male"))
+109 + 69
