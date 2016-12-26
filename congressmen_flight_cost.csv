@@ -1,0 +1,442 @@
+lastname,firstname,town,state,state_and_twon,Airport1,Airport2,Airport3,Flight 1,Flight 2,Flight 3
+Young,Don,Fort Yukon,Alaska,"Fort Yukon ,  Alaska",ANC,FAI,,568.5,542.5,0
+Byrne,Bradley,Fairhope,Alabama,"Fairhope ,  Alabama",MOB,,,296.6,0,0
+Roby,Martha,Montgomery,Alabama,"Montgomery ,  Alabama",MGM,,,0,0,0
+Rogers,Mike,Anniston,Alabama,"Anniston ,  Alabama",BHM,MGM,CSG,210.6,0,0
+Aderholt,Robert,Haleyville,Alabama,"Haleyville ,  Alabama",BHM,,,210.6,0,0
+Brooks,Mo,Huntsville,Alabama,"Huntsville ,  Alabama",HSV,,,343.6,0,0
+Palmer,Gary,Hoover,Alabama,"Hoover ,  Alabama",BHM,,,210.6,0,0
+Sewell,Terri,Birmingham,Alabama,"Birmingham ,  Alabama",BHM,MGM,,210.6,0,0
+Crawford,Eric,Jonesboro,Arkansas,"Jonesboro ,  Arkansas",JBR,MEM,LIT,0,158.6,175.6
+Hill,J.,Little Rock,Arkansas,"Little Rock ,  Arkansas",LIT,,,175.6,0,0
+Womack,Steve,Rogers,Arkansas,"Rogers ,  Arkansas",XNA,FSM,,288.6,0,0
+Westerman,Bruce,Hot Springs,Arkansas,"Hot Springs ,  Arkansas",LIT,XNA,FSM,175.6,288.6,0
+Radewagen,Aumua Amata,Pago Pago,American Samoa,"Pago Pago ,  American Samoa",,,,0,0,0
+Kirkpatrick,Ann,Flagstaff,Arizona,"Flagstaff ,  Arizona",PHX,FLG,,174.6,1434.6,0
+McSally,Martha,Tucson,Arizona,"Tucson ,  Arizona",TUS,,,234.6,0,0
+Grijalva,Raí_l,Tucson,Arizona,"Tucson ,  Arizona",PHX,YUM,TUS,174.6,0,234.6
+Gosar,Paul,Prescott,Arizona,"Prescott ,  Arizona",PRC,PHX,LAS,357.1,174.6,224.1
+Salmon,Matt,Mesa,Arizona,"Mesa ,  Arizona",PHX,,,174.6,0,0
+Schweikert,David,Fountain Hills,Arizona,"Fountain Hills ,  Arizona",PHX,,,174.6,0,0
+Gallego,Ruben,Phoenix,Arizona,"Phoenix ,  Arizona",PHX,,,174.6,0,0
+Franks,Trent,Peoria,Arizona,"Peoria ,  Arizona",PHX,,,174.6,0,0
+Sinema,Kyrsten,Phoenix,Arizona,"Phoenix ,  Arizona",PHX,,,174.6,0,0
+LaMalfa,Doug,Oroville,California,"Oroville ,  California",RDD,RNO,,479.6,190.6,0
+Huffman,Jared,San Rafael,California,"San Rafael ,  California",SFO,OAK,SJC,178.6,462.6,225.6
+Garamendi,John,Walnut Grove,California,"Walnut Grove ,  California",OAK,SMF,,462.6,235.6,0
+McClintock,Tom,Roseville,California,"Roseville ,  California",SMF,FAT,RNO,235.6,204.6,190.6
+Thompson,Mike,St. Helena,California,"St. Helena ,  California",SMF,OAK,SFO,235.6,378.6,178.6
+Matsui,Doris,Sacramento,California,"Sacramento ,  California",SMF,,,235.6,0,0
+Bera,Ami,Elk Grove,California,"Elk Grove ,  California",SMF,,,235.6,0,0
+Cook,Paul,Yucca Valley,California,"Yucca Valley ,  California",ONT,LAX,LAS,262.6,267.1,224.1
+McNerney,Jerry,Stockton,California,"Stockton ,  California",SMF,OAK,,235.6,462.6,0
+Denham,Jeff,Turlock,California,"Turlock ,  California",SJC,OAK,SMF,225.6,462.6,235.6
+DeSaulnier,Mark,Concord,California,"Concord ,  California",OAK,SFO,,462.6,178.6,0
+Pelosi,Nancy,San Francisco,California,"San Francisco ,  California",SFO,,,178.6,0,0
+Lee,Barbara,Oakland,California,"Oakland ,  California",OAK,,,462.6,0,0
+Speier,Jackie,Hillsborough,California,"Hillsborough ,  California",SFO,SJC,,178.6,225.6,0
+Swalwell,Eric,Dublin,California,"Dublin ,  California",OAK,SFO,SJC,462.6,178.6,225.6
+Costa,Jim,Fresno,California,"Fresno ,  California",FAT,,,204.6,0,0
+Honda,Michael,San Josí©,California,"San Josí© ,  California",SJC,SFO,,225.6,178.6,0
+Eshoo,Anna,Atherton,California,"Atherton ,  California",SJC,SFO,,225.6,178.6,0
+Lofgren,Zoe,San Jose,California,"San Jose ,  California",SJC,SFO,,225.6,178.6,0
+Farr,Sam,Carmel,California,"Carmel ,  California",SJC,MRY,,225.6,324.6,0
+Valadao,David,Hanford,California,"Hanford ,  California",FAT,,,204.6,0,0
+Nunes,Devin,Tulare,California,"Tulare ,  California",FAT,,,204.6,0,0
+McCarthy,Kevin,Bakersfield,California,"Bakersfield ,  California",BFL,FAT,,605.6,204.6,0
+Capps,Lois,Santa Barbara,California,"Santa Barbara ,  California",LAX,SBA,SBP,267.1,370.6,371.6
+Knight,Stephen,Antelope Valley,California,"Antelope Valley ,  California",LAX,ONT,,267.1,262.6,0
+Brownley,Julia,Westlake Village,California,"Westlake Village ,  California",LAX,ONT,SNA,267.1,262.6,258.6
+Chu,Judy,Monterey Park,California,"Monterey Park ,  California",ONT,LAX,SNA,262.6,267.1,258.6
+Schiff,Adam,Burbank,California,"Burbank ,  California",LAX,ONT,BUR,267.1,262.6,303.6
+Cíçrdenas,Tony,Pacoima,California,"Pacoima ,  California",LAX,BUR,,267.1,303.6,0
+Sherman,Brad,Sherman Oaks,California,"Sherman Oaks ,  California",LAX,BUR,,267.1,303.6,0
+Aguilar,Pete,Redlands,California,"Redlands ,  California",LAX,ONT,,267.1,262.6,0
+Napolitano,Grace,Norwalk,California,"Norwalk ,  California",LAX,ONT,,267.1,262.6,0
+Lieu,Ted,Torrance,California,"Torrance ,  California",LAX,,,267.1,0,0
+Becerra,Xavier,Los Angeles,California,"Los Angeles ,  California",LAX,,,267.1,0,0
+Torres,Norma,Pomona,California,"Pomona ,  California",LAX,ONT,,267.1,262.6,0
+Ruiz,Raul,Palm Desert,California,"Palm Desert ,  California",LAX,PSP,SAN,267.1,396.6,158.6
+Bass,Karen,Los Angeles,California,"Los Angeles ,  California",LAX,,,267.1,0,0
+Síçnchez,Linda,Whittier,California,"Whittier ,  California",LAX,SNA,,267.1,258.6,0
+Royce,Edward,Fullerton,California,"Fullerton ,  California",LAX,ONT,SNA,267.1,262.6,258.6
+Roybal-Allard,Lucille,Los Angeles,California,"Los Angeles ,  California",LAX,,,267.1,0,0
+Takano,Mark,Riverside,California,"Riverside ,  California",LAX,SNA,,267.1,258.6,0
+Calvert,Ken,Corona,California,"Corona ,  California",SAN,,,158.6,0,0
+Waters,Maxine,Los Angeles,California,"Los Angeles ,  California",LAX,,,267.1,0,0
+Hahn,Janice,San Pedro,California,"San Pedro ,  California",LAX,,,267.1,0,0
+Walters,Mimi,Irvine,California,"Irvine ,  California",SNA,,,258.6,0,0
+Sanchez,Loretta,Santa Ana,California,"Santa Ana ,  California",SNA,LAX,,258.6,267.1,0
+Lowenthal,Alan,Long Beach,California,"Long Beach ,  California",LGB,SNA,LAX,283.6,258.6,267.1
+Rohrabacher,Dana,Costa Mesa,California,"Costa Mesa ,  California",LGB,SNA,LAX,283.6,258.6,267.1
+Issa,Darrell,Vista,California,"Vista ,  California",SAN,SNA,,158.6,258.6,0
+Hunter,Duncan,Alpine,California,"Alpine ,  California",SAN,,,158.6,0,0
+Vargas,Juan,Chula Vista,California,"Chula Vista ,  California",SAN,,,158.6,0,0
+Peters,Scott,San Diego,California,"San Diego ,  California",SAN,,,158.6,0,0
+Davis,Susan,San Diego,California,"San Diego ,  California",SAN,,,158.6,0,0
+DeGette,Diana,Denver,Colorado,"Denver ,  Colorado",DEN,,,108.1,0,0
+Polis,Jared,Boulder,Colorado,"Boulder ,  Colorado",DEN,,,108.1,0,0
+Tipton,Scott,Cortez,Colorado,"Cortez ,  Colorado",GJT,DEN,COS,333.6,108.1,144.6
+Buck,Ken,Windsor,Colorado,"Windsor ,  Colorado",DEN,,,108.1,0,0
+Lamborn,Doug,Colorado Springs,Colorado,"Colorado Springs ,  Colorado",COS,DEN,,144.6,108.1,0
+Coffman,Mike,Aurora,Colorado,"Aurora ,  Colorado",DEN,,,108.1,0,0
+Perlmutter,Ed,Golden,Colorado,"Golden ,  Colorado",DEN,,,108.1,0,0
+Larson,John,East Hartford,Connecticut,"East Hartford ,  Connecticut",BDL,,,76.1,0,0
+Courtney,Joe,Vernon,Connecticut,"Vernon ,  Connecticut",BDL,ORH,,76.1,318.6,0
+DeLauro,Rosa,New Haven,Connecticut,"New Haven ,  Connecticut",HVN,BDL,,0,76.1,0
+Himes,James,Cos Cob,Connecticut,"Cos Cob ,  Connecticut",JFK,LGA,,115.6,110.6,0
+Esty,Elizabeth,Cheshire,Connecticut,"Cheshire ,  Connecticut",BDL,,,76.1,0,0
+Norton,Eleanor,District of Columbia,District of Columbia,"District of Columbia ,  District of Columbia",,,,0,0,0
+Carney,John,Wilmington,Delaware,"Wilmington ,  Delaware",,,,0,0,0
+Miller,Jeff,Chumuckla,Florida,"Chumuckla ,  Florida",PNS,MOB,VPS,168.61,296.6,208.6
+Graham,Gwen,Tallahassee,Florida,"Tallahassee ,  Florida",TLH,,,199.61,0,0
+Yoho,Ted,Gainesville,Florida,"Gainesville ,  Florida",GNV,JAX,,0,135.1,0
+Crenshaw,Ander,Jacksonville,Florida,"Jacksonville ,  Florida",JAX,,,135.1,0,0
+Brown,Corrine,Jacksonville,Florida,"Jacksonville ,  Florida",JAX,,,135.1,0,0
+DeSantis,Ron,Ponte Vedra Beach,Florida,"Ponte Vedra Beach ,  Florida",JAX,MCO,DAB,135.1,125.1,0
+Mica,John,Winter Park,Florida,"Winter Park ,  Florida",MCO,,,125.1,0,0
+Posey,Bill,Rockledge,Florida,"Rockledge ,  Florida",MCO,MLB,,125.1,0,0
+Grayson,Alan,Orlando,Florida,"Orlando ,  Florida",MCO,,,125.1,0,0
+Webster,Daniel,Orlando,Florida,"Orlando ,  Florida",MCO,,,125.1,0,0
+Nugent,Richard,Spring Hill,Florida,"Spring Hill ,  Florida",GNV,MCO,TPA,0,125.1,138.1
+Bilirakis,Gus,Palm Harbor,Florida,"Palm Harbor ,  Florida",TPA,,,138.1,0,0
+Jolly,David,Indian Shores,Florida,"Indian Shores ,  Florida",TPA,,,138.1,0,0
+Castor,Kathy,Tampa,Florida,"Tampa ,  Florida",TPA,,,138.1,0,0
+Ross,Dennis,Lakeland,Florida,"Lakeland ,  Florida",TPA,,,138.1,0,0
+Buchanan,Vern,Sarasota,Florida,"Sarasota ,  Florida",SRQ,TPA,,311.6,138.1,0
+Rooney,Thomas,Okeechobee,Florida,"Okeechobee ,  Florida",TPA,RSW,SRQ,138.1,68.1,311.6
+Murphy,Patrick,Jupiter,Florida,"Jupiter ,  Florida",PBI,FLL,,115.1,116.1,0
+Clawson,Curt,Bonita Springs,Florida,"Bonita Springs ,  Florida",RSW,,,68.1,0,0
+Hastings,Alcee,Miramar,Florida,"Miramar ,  Florida",PBI,FLL,MIA,115.1,116.1,121.6
+Deutch,Theodore,Boca Raton,Florida,"Boca Raton ,  Florida",PBI,FLL,MIA,115.1,116.1,121.6
+Frankel,Lois,West Palm Beach,Florida,"West Palm Beach ,  Florida",PBI,FLL,MIA,115.1,116.1,121.6
+Wasserman Schultz,Debbie,Weston,Florida,"Weston ,  Florida",MIA,,,121.6,0,0
+Wilson,Frederica,Miami Gardens,Florida,"Miami Gardens ,  Florida",MIA,,,121.6,0,0
+Diaz-Balart,Mario,Miami,Florida,"Miami ,  Florida",MIA,,,121.6,0,0
+Curbelo,Carlos,Miami,Florida,"Miami ,  Florida",MIA,EYW,,121.6,290.61,0
+Ros-Lehtinen,Ileana,Miami,Florida,"Miami ,  Florida",MIA,,,121.6,0,0
+Carter,Earl,Pooler,Georgia,"Pooler ,  Georgia",SAV,,,162.61,0,0
+Bishop,Sanford,Albany,Georgia,"Albany ,  Georgia",ABY,CSG,,0,0,0
+Westmoreland,Lynn,Grantville,Georgia,"Grantville ,  Georgia",ATL,CSG,,145.6,0,0
+Johnson,Henry,Lithonia,Georgia,"Lithonia ,  Georgia",ATL,,,145.6,0,0
+Lewis,John,Atlanta,Georgia,"Atlanta ,  Georgia",ATL,,,145.6,0,0
+Price,Tom,Roswell,Georgia,"Roswell ,  Georgia",ATL,,,145.6,0,0
+Woodall,Rob,Lawrenceville,Georgia,"Lawrenceville ,  Georgia",ATL,,,145.6,0,0
+Scott,Austin,Tifton,Georgia,"Tifton ,  Georgia",VLD,ABY,,0,0,0
+Collins,Doug,Gainesville,Georgia,"Gainesville ,  Georgia",ATL,GSP,,145.6,303.6,0
+Hice,Jody,Monroe,Georgia,"Monroe ,  Georgia",ATL,,,145.6,0,0
+Loudermilk,Barry,Cassville,Georgia,"Cassville ,  Georgia",ATL,,,145.6,0,0
+Allen,Rick,Augusta,Georgia,"Augusta ,  Georgia",ATL,,,145.6,0,0
+Scott,David,Atlanta,Georgia,"Atlanta ,  Georgia",ATL,,,145.6,0,0
+Graves,Tom,Ranger,Georgia,"Ranger ,  Georgia",CHA,ATL,,194.6,145.6,0
+Bordallo,Madeleine,Hagatna,Guam,"Hagatna ,  Guam",,,,0,0,0
+,,,Hawaii," ,  Hawaii",HNL,,,658.5,0,0
+Gabbard,Tulsi,Kailua,Hawaii,"Kailua ,  Hawaii",HNL,,,658.5,0,0
+Blum,Rod,Dubuque,Iowa,"Dubuque ,  Iowa",CID,DBQ,MLI,128.6,0,108.6
+Loebsack,David,Iowa City,Iowa,"Iowa City ,  Iowa",DSM,MLI,,209.6,108.6,0
+Young,David,Van Meter,Iowa,"Van Meter ,  Iowa",DSM,OMA,,209.6,157.6,0
+King,Steve,Kiron,Iowa,"Kiron ,  Iowa",DSM,OMA,,209.6,157.6,0
+Labrador,Raí_l,Eagle,Idaho,"Eagle ,  Idaho",BOI,,,309.6,0,0
+Simpson,Michael,Idaho Falls,Idaho,"Idaho Falls ,  Idaho",BOI,TWF,,309.6,0,0
+Rush,Bobby,Chicago,Illinois,"Chicago ,  Illinois",ORD,MDW,,68.1,355.06,0
+Kelly,Robin,Matteson,Illinois,"Matteson ,  Illinois",ORD,MDW,,68.1,355.06,0
+Lipinski,Daniel,Western Springs,Illinois,"Western Springs ,  Illinois",ORD,MDW,,68.1,355.06,0
+Gutií©rrez,Luis,Chicago,Illinois,"Chicago ,  Illinois",ORD,MDW,,68.1,355.06,0
+Quigley,Mike,Chicago,Illinois,"Chicago ,  Illinois",ORD,MDW,,68.1,355.06,0
+Roskam,Peter,Wheaton,Illinois,"Wheaton ,  Illinois",ORD,MDW,,68.1,355.06,0
+Davis,Danny,Chicago,Illinois,"Chicago ,  Illinois",ORD,MDW,,68.1,355.06,0
+Duckworth,Tammy,Hoffman Estates,Illinois,"Hoffman Estates ,  Illinois",ORD,MDW,,68.1,355.06,0
+Schakowsky,Janice,Evanston,Illinois,"Evanston ,  Illinois",ORD,MDW,,68.1,355.06,0
+Dold,Robert,Kenilworth,Illinois,"Kenilworth ,  Illinois",ORD,MDW,,68.1,355.06,0
+Foster,Bill,Naperville,Illinois,"Naperville ,  Illinois",ORD,MDW,,68.1,355.06,0
+Bost,Mike,Murphysboro,Illinois,"Murphysboro ,  Illinois",STL,CGI,MWA,215.1,242,237.5
+Davis,Rodney,Taylorville,Illinois,"Taylorville ,  Illinois",SPI,STL,,225.6,215.1,0
+Hultgren,Randy,Plano,Illinois,"Plano ,  Illinois",ORD,STL,,68.1,215.1,0
+Shimkus,John,Collinsville,Illinois,"Collinsville ,  Illinois",STL,,,215.1,0,0
+Kinzinger,Adam,Channahon,Illinois,"Channahon ,  Illinois",ORD,MDW,,68.1,355.06,0
+Bustos,Cheri,East Moline,Illinois,"East Moline ,  Illinois",PIA,MLI,,166.6,108.6,0
+LaHood,Darin,Peoria,Illinois,"Peoria ,  Illinois",PIA,SPI,,166.6,225.6,0
+Visclosky,Peter,Merrillville,Indiana,"Merrillville ,  Indiana",ORD,MDW,,68.1,355.06,0
+Walorski,Jackie,Elkhart,Indiana,"Elkhart ,  Indiana",SBN,ORD,MDW,339.6,68.1,355.06
+Stutzman,Marlin,Howe,Indiana,"Howe ,  Indiana",FWA,,,223.6,0,0
+Rokita,Todd,Clermont,Indiana,"Clermont ,  Indiana",IND,,,125.6,0,0
+Brooks,Susan,Carmel,Indiana,"Carmel ,  Indiana",IND,,,125.6,0,0
+Messer,Luke,Greensburg,Indiana,"Greensburg ,  Indiana",IND,,,125.6,0,0
+Carson,Andrí©,Indianapolis,Indiana,"Indianapolis ,  Indiana",IND,,,125.6,0,0
+Bucshon,Larry,Newburgh,Indiana,"Newburgh ,  Indiana",EVV,,,177.6,0,0
+Young,Todd,Bloomington,Indiana,"Bloomington ,  Indiana",IND,SDF,,125.6,184.6,0
+Huelskamp,Tim,Fowler,Kansas,"Fowler ,  Kansas",ICT,MCI,,205.6,207.1,0
+Jenkins,Lynn,Topeka,Kansas,"Topeka ,  Kansas",MCI,,,207.1,0,0
+Yoder,Kevin,Overland Park,Kansas,"Overland Park ,  Kansas",MCI,,,207.1,0,0
+Pompeo,Mike,Wichita,Kansas,"Wichita ,  Kansas",ICT,,,205.6,0,0
+,,,Kentucky," ,  Kentucky",EVV,BNA,,177.6,227.6,0
+Guthrie,Brett,Bowling Green,Kentucky,"Bowling Green ,  Kentucky",SDF,LEX,,184.6,245.6,0
+Yarmuth,John,Louisville,Kentucky,"Louisville ,  Kentucky",SDF,,,184.6,0,0
+Massie,Thomas,Garrison,Kentucky,"Garrison ,  Kentucky",CVG,LEX,SDF,109.6,245.6,184.6
+Rogers,Harold,Somerset,Kentucky,"Somerset ,  Kentucky",HTS,LEX,,0,245.6,0
+Barr,Andy,Lexington,Kentucky,"Lexington ,  Kentucky",LEX,,,245.6,0,0
+Scalise,Steve,Jefferson,Louisiana,"Jefferson ,  Louisiana",MSY,,,195.48,0,0
+Richmond,Cedric,New Orleans,Louisiana,"New Orleans ,  Louisiana",MSY,,,195.48,0,0
+Boustany,Charles,Lafayette,Louisiana,"Lafayette ,  Louisiana",LFT,MSY,,250.6,195.48,0
+Fleming,John,Minden,Louisiana,"Minden ,  Louisiana",SHV,,,296.6,0,0
+Abraham,Ralph,Alto,Louisiana,"Alto ,  Louisiana",MLU,AEX,,296.6,279.6,0
+Graves,Garret,Baton Rouge,Louisiana,"Baton Rouge ,  Louisiana",BTR,MSY,,259.6,195.48,0
+Neal,Richard,Springfield,Massachusetts,"Springfield ,  Massachusetts",BDL,ORH,BOS,76.1,318.6,68.1
+McGovern,James,Worcester,Massachusetts,"Worcester ,  Massachusetts",ORH,BOS,PVD,318.6,68.1,199.6
+Tsongas,Niki,Lowell,Massachusetts,"Lowell ,  Massachusetts",MHT,BOS,,235.6,68.1,0
+Kennedy,Joseph,Brookline,Massachusetts,"Brookline ,  Massachusetts",BOS,PVD,,68.1,199.6,0
+Clark,Katherine,Melrose,Massachusetts,"Melrose ,  Massachusetts",BOS,,,68.1,0,0
+Moulton,Seth,Salem,Massachusetts,"Salem ,  Massachusetts",BOS,,,68.1,0,0
+Capuano,Michael,Somerville,Massachusetts,"Somerville ,  Massachusetts",BOS,,,68.1,0,0
+Lynch,Stephen,South Boston,Massachusetts,"South Boston ,  Massachusetts",BOS,,,68.1,0,0
+Keating,William,Quincy,Massachusetts,"Quincy ,  Massachusetts",BOS,PVC,,68.1,181.59,0
+Harris,Andy,Cockeysville,Maryland,"Cockeysville ,  Maryland",,,,0,0,0
+Ruppersberger,C.,Cockeysville,Maryland,"Cockeysville ,  Maryland",,,,0,0,0
+Sarbanes,John,Baltimore,Maryland,"Baltimore ,  Maryland",,,,0,0,0
+Edwards,Donna,Oxon Hill,Maryland,"Oxon Hill ,  Maryland",,,,0,0,0
+Hoyer,Steny,Mechanicsville,Maryland,"Mechanicsville ,  Maryland",,,,0,0,0
+Delaney,John,Potomac,Maryland,"Potomac ,  Maryland",,,,0,0,0
+Cummings,Elijah,Baltimore,Maryland,"Baltimore ,  Maryland",,,,0,0,0
+Van Hollen,Chris,Kensington,Maryland,"Kensington ,  Maryland",,,,0,0,0
+Pingree,Chellie,North Haven,Maine,"North Haven ,  Maine",PWM,Aug,,213.6,156.6,0
+Poliquin,Bruce,Oakland,Maine,"Oakland ,  Maine",PWM,Aug,,213.6,156.6,0
+Benishek,Dan,Crystal Falls,Michigan,"Crystal Falls ,  Michigan",CIU,MQT,TVC,0,0,222.6
+Huizenga,Bill,Zeeland,Michigan,"Zeeland ,  Michigan",GRR,,,202.6,0,0
+Amash,Justin,Cascade Township,Michigan,"Cascade Township ,  Michigan",GRR,,,202.6,0,0
+Moolenaar,John,Midland,Michigan,"Midland ,  Michigan",LAN,GRR,,190.6,202.6,0
+Kildee,Daniel,Flushing,Michigan,"Flushing ,  Michigan",FNT,DTW,,228.6,136.6,0
+Upton,Fred,St. Joseph,Michigan,"St. Joseph ,  Michigan",GRR,SBN,,202.6,339.6,0
+Walberg,Tim,Tipton,Michigan,"Tipton ,  Michigan",DTW,LAN,,136.6,190.6,0
+Bishop,Mike,Rochester,Michigan,"Rochester ,  Michigan",DTW,LAN,,136.6,190.6,0
+Levin,Sander,Royal Oak,Michigan,"Royal Oak ,  Michigan",DTW,,,136.6,0,0
+Miller,Candice,Harrison Township,Michigan,"Harrison Township ,  Michigan",DTW,,,136.6,0,0
+Trott,David,Birmingham,Michigan,"Birmingham ,  Michigan",DTW,,,136.6,0,0
+Dingell,Debbie,Dearborn,Michigan,"Dearborn ,  Michigan",DTW,,,136.6,0,0
+Conyers,John,Detroit,Michigan,"Detroit ,  Michigan",DTW,,,136.6,0,0
+Lawrence,Brenda,Southfield,Michigan,"Southfield ,  Michigan",DTW,,,136.6,0,0
+Walz,Timothy,Mankato,Minnesota,"Mankato ,  Minnesota",MSP,RST,,113.1,0,0
+Kline,John,Burnsville,Minnesota,"Burnsville ,  Minnesota",MSP,,,113.1,0,0
+Paulsen,Erik,Eden Prairie,Minnesota,"Eden Prairie ,  Minnesota",MSP,,,113.1,0,0
+McCollum,Betty,St. Paul,Minnesota,"St. Paul ,  Minnesota",MSP,,,113.1,0,0
+Ellison,Keith,Minneapolis,Minnesota,"Minneapolis ,  Minnesota",MSP,,,113.1,0,0
+Emmer,Tom,Delano,Minnesota,"Delano ,  Minnesota",MSP,,,113.1,0,0
+Peterson,Collin,Detroit Lakes,Minnesota,"Detroit Lakes ,  Minnesota",MSP,FAR,,113.1,293.6,0
+Nolan,Richard,Crosby,Minnesota,"Crosby ,  Minnesota",MSP,DLH,,113.1,290.6,0
+Clay,Wm.,St. Louis,Missouri,"St. Louis ,  Missouri",STL,,,215.1,0,0
+Wagner,Ann,Ballwin,Missouri,"Ballwin ,  Missouri",STL,,,215.1,0,0
+Luetkemeyer,Blaine,St. Elizabeth,Missouri,"St. Elizabeth ,  Missouri",STL,,,215.1,0,0
+Hartzler,Vicky,Harrisonville,Missouri,"Harrisonville ,  Missouri",MCI,SGF,COU,207.1,174.6,0
+Cleaver,Emanuel,Kansas City,Missouri,"Kansas City ,  Missouri",MCI,,,207.1,0,0
+Graves,Sam,Tarkio,Missouri,"Tarkio ,  Missouri",MCI,,,207.1,0,0
+Long,Billy,Springfield,Missouri,"Springfield ,  Missouri",SGF,JLN,,174.6,0,0
+Smith,Jason,Salem,Missouri,"Salem ,  Missouri",STL,CGI,PAH,215.1,242,259.1
+Sablan,Gregorio,Saipan,Northern Mariana Islands,"Saipan ,  Northern Mariana Islands",,,,0,0,0
+Kelly,Trent,Saltillo,Mississippi,"Saltillo ,  Mississippi",MEM,GTR,,158.6,0,0
+Thompson,Bennie,Bolton,Mississippi,"Bolton ,  Mississippi",Jan,,,280.6,0,0
+Harper,Gregg,Pearl,Mississippi,"Pearl ,  Mississippi",Jan,,,280.6,0,0
+Palazzo,Steven,Biloxi,Mississippi,"Biloxi ,  Mississippi",GPT,MSY,,306.6,195.48,0
+Zinke,Ryan,Whitefish,Montana,"Whitefish ,  Montana",BIL,MSO,GTF,490.6,510.6,490.6
+Butterfield,G.,Wilson,North Carolina,"Wilson ,  North Carolina",RDU,,,152.6,0,0
+Ellmers,Renee,Dunn,North Carolina,"Dunn ,  North Carolina",RDU,,,152.6,0,0
+Jones,Walter,Farmville,North Carolina,"Farmville ,  North Carolina",ILM,RDU,,0,152.6,0
+Price,David,Chapel Hill,North Carolina,"Chapel Hill ,  North Carolina",RDU,,,152.6,0,0
+Foxx,Virginia,Grandfather Community,North Carolina,"Grandfather Community ,  North Carolina",GSO,RDU,,416.6,152.6,0
+Walker,Mark,Summerfield,North Carolina,"Summerfield ,  North Carolina",GSO,RDU,,416.6,152.6,0
+Rouzer,David,McGee's Crossroad,North Carolina,"McGee's Crossroad ,  North Carolina",FAY,ILM,RDU,0,0,152.6
+Hudson,Richard,Concord,North Carolina,"Concord ,  North Carolina",CLT,,,200.6,0,0
+Pittenger,Robert,Charlotte,North Carolina,"Charlotte ,  North Carolina",CLT,,,200.6,0,0
+McHenry,Patrick,Denver,North Carolina,"Denver ,  North Carolina",CLT,,,200.6,0,0
+Meadows,Mark,Cashiers,North Carolina,"Cashiers ,  North Carolina",AVL,,,342.6,0,0
+Adams,Alma,Greensboro,North Carolina,"Greensboro ,  North Carolina",CLT,GSO,,200.6,416.6,0
+Holding,George,Raleigh,North Carolina,"Raleigh ,  North Carolina",RDU,,,152.6,0,0
+Cramer,Kevin,Bismarck,North Dakota,"Bismarck ,  North Dakota",FAR,BIS,MOT,293.6,572.6,587.6
+Fortenberry,Jeff,Lincoln,Nebraska,"Lincoln ,  Nebraska",LNK,OMA,,210.6,157.6,0
+Ashford,Brad,Omaha,Nebraska,"Omaha ,  Nebraska",OMA,,,157.6,0,0
+Smith,Adrian,Gering,Nebraska,"Gering ,  Nebraska",LBF,EAR,OMA,474.6,399,157.6
+Guinta,Frank,Manchester,New Hampshire,"Manchester ,  New Hampshire",MHT,BOS,,235.6,68.1,0
+Kuster,Ann,Hopkinton,New Hampshire,"Hopkinton ,  New Hampshire",MHT,BOS,,235.6,68.1,0
+Norcross,Donald,Camden City,New Jersey,"Camden City ,  New Jersey",,,,0,0,0
+LoBiondo,Frank,Ventnor,New Jersey,"Ventnor ,  New Jersey",,,,0,0,0
+MacArthur,Thomas,Toms River,New Jersey,"Toms River ,  New Jersey",,,,0,0,0
+Smith,Christopher,Robbinsville,New Jersey,"Robbinsville ,  New Jersey",,,,0,0,0
+Garrett,Scott,Wantage,New Jersey,"Wantage ,  New Jersey",,,,0,0,0
+Pallone,Frank,Long Branch,New Jersey,"Long Branch ,  New Jersey",,,,0,0,0
+Lance,Leonard,Clinton Township,New Jersey,"Clinton Township ,  New Jersey",,,,0,0,0
+Sires,Albio,West New York,New Jersey,"West New York ,  New Jersey",,,,0,0,0
+Pascrell,Bill,Paterson,New Jersey,"Paterson ,  New Jersey",,,,0,0,0
+Payne,Donald,Newark,New Jersey,"Newark ,  New Jersey",,,,0,0,0
+Frelinghuysen,Rodney,Morristown,New Jersey,"Morristown ,  New Jersey",,,,0,0,0
+Watson Coleman,Bonnie,Ewing Township,New Jersey,"Ewing Township ,  New Jersey",,,,0,0,0
+Lujan Grisham,Michelle,Albuquerque,New Mexico,"Albuquerque ,  New Mexico",ABQ,,,164.6,0,0
+Pearce,Stevan,Hobbs,New Mexico,"Hobbs ,  New Mexico",ABQ,ELP,,164.6,248.6,0
+Lujíçn,Ben,Nambí©,New Mexico,"Nambí© ,  New Mexico",ABQ,,,164.6,0,0
+Titus,Dina,Las Vegas,Nevada,"Las Vegas ,  Nevada",LAS,,,224.1,0,0
+Amodei,Mark,Carson City,Nevada,"Carson City ,  Nevada",RNO,,,190.6,0,0
+Heck,Joseph,Henderson,Nevada,"Henderson ,  Nevada",LAS,,,224.1,0,0
+Hardy,Cresent,Mesquite,Nevada,"Mesquite ,  Nevada",LAS,,,224.1,0,0
+Zeldin,Lee,Shirley,New York,"Shirley ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+King,Peter,Seaford,New York,"Seaford ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Israel,Steve,Huntington,New York,"Huntington ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Rice,Kathleen,Garden City,New York,"Garden City ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Meeks,Gregory,Queens,New York,"Queens ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Meng,Grace,Queens,New York,"Queens ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Velíçzquez,Nydia,Brooklyn,New York,"Brooklyn ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Jeffries,Hakeem,Brooklyn,New York,"Brooklyn ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Clarke,Yvette,Brooklyn,New York,"Brooklyn ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Nadler,Jerrold,New York,New York,"New York ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Donovan,Daniel,Staten Island,New York,"Staten Island ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Maloney,Carolyn,New York,New York,"New York ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Rangel,Charles,New York,New York,"New York ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Crowley,Joseph,Queens/Bronx,New York,"Queens/Bronx ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Serrano,Josí©,Bronx,New York,"Bronx ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Engel,Eliot,Bronx,New York,"Bronx ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Lowey,Nita,Harrison,New York,"Harrison ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Maloney,Sean,Cold Spring,New York,"Cold Spring ,  New York",JFK,LGA,EWR,115.6,110.6,207.1
+Gibson,Christopher,Kinderhook,New York,"Kinderhook ,  New York",ALB,JFK,LGA,262.6,115.6,110.6
+Tonko,Paul,Amsterdam,New York,"Amsterdam ,  New York",ALB,,,262.6,0,0
+Stefanik,Elise,Willsboro,New York,"Willsboro ,  New York",ALB,SYR,,262.6,180.6,0
+Hanna,Richard,Barneveld,New York,"Barneveld ,  New York",SYR,,,180.6,0,0
+Reed,Tom,Corning,New York,"Corning ,  New York",ROC,SYR,BUF,104.6,180.6,116.61
+Katko,John,Syracuse,New York,"Syracuse ,  New York",SYR,ROC,,180.6,104.6,0
+Slaughter,Louise,Fairport,New York,"Fairport ,  New York",ROC,,,104.6,0,0
+Higgins,Brian,Buffalo,New York,"Buffalo ,  New York",BUF,,,116.61,0,0
+Collins,Chris,Clarence,New York,"Clarence ,  New York",BUF,ROC,,116.61,104.6,0
+Chabot,Steve,Cincinnati,Ohio,"Cincinnati ,  Ohio",CVG,,,109.6,0,0
+Wenstrup,Brad,Cincinnati,Ohio,"Cincinnati ,  Ohio",CVG,,,109.6,0,0
+Beatty,Joyce,Blacklick,Ohio,"Blacklick ,  Ohio",CMH,,,145.6,0,0
+Jordan,Jim,Urbana,Ohio,"Urbana ,  Ohio",CMH,,,145.6,0,0
+Latta,Robert,Bowling Green,Ohio,"Bowling Green ,  Ohio",TOL,FWA,,0,223.6,0
+Johnson,Bill,Marietta,Ohio,"Marietta ,  Ohio",CRW,HTS,CMH,584.6,0,145.6
+Gibbs,Bob,Lakeville,Ohio,"Lakeville ,  Ohio",CLE,CAK,,291.1,168.6,0
+Davidson,Warren,Troy,Ohio,"Troy ,  Ohio",DAY,CVG,CMH,180.6,109.6,145.6
+Kaptur,Marcy,Toledo,Ohio,"Toledo ,  Ohio",TOL,CLE,,0,291.1,0
+Turner,Michael,Dayton,Ohio,"Dayton ,  Ohio",DAY,,,180.6,0,0
+Fudge,Marcia,Warrensville Heights,Ohio,"Warrensville Heights ,  Ohio",CLE,,,291.1,0,0
+Tiberi,Patrick,Galena,Ohio,"Galena ,  Ohio",CMH,,,145.6,0,0
+Ryan,Tim,Niles,Ohio,"Niles ,  Ohio",CAK,CLE,,168.6,291.1,0
+Joyce,David,Russell Township,Ohio,"Russell Township ,  Ohio",CLE,,,291.1,0,0
+Stivers,Steve,Columbus,Ohio,"Columbus ,  Ohio",CMH,,,145.6,0,0
+Renacci,James,Wadsworth,Ohio,"Wadsworth ,  Ohio",CLE,,,291.1,0,0
+Bridenstine,Jim,Tulsa,Oklahoma,"Tulsa ,  Oklahoma",TUL,,,231.6,0,0
+Mullin,Markwayne,Westville,Oklahoma,"Westville ,  Oklahoma",TUL,,,231.6,0,0
+Lucas,Frank,Cheyenne,Oklahoma,"Cheyenne ,  Oklahoma",OKC,,,235.6,0,0
+Cole,Tom,Moore,Oklahoma,"Moore ,  Oklahoma",OKC,,,235.6,0,0
+Russell,Steve,Oklahoma City,Oklahoma,"Oklahoma City ,  Oklahoma",OKC,,,235.6,0,0
+Bonamici,Suzanne,Washington County,Oregon,"Washington County ,  Oregon",PDX,,,285.6,0,0
+Walden,Greg,Hood River,Oregon,"Hood River ,  Oregon",MFR,RDM,PDX,306.6,390.6,285.6
+Blumenauer,Earl,Portland,Oregon,"Portland ,  Oregon",PDX,,,285.6,0,0
+DeFazio,Peter,Springfield,Oregon,"Springfield ,  Oregon",EUG,,,302.6,0,0
+Schrader,Kurt,Canby,Oregon,"Canby ,  Oregon",PDX,,,285.6,0,0
+Brady,Robert,Philadelphia,Pennsylvania,"Philadelphia ,  Pennsylvania",,,,0,0,0
+,,,Pennsylvania," ,  Pennsylvania",,,,0,0,0
+Kelly,Mike,Butler,Pennsylvania,"Butler ,  Pennsylvania",,,,0,0,0
+Perry,Scott,Dillsburg,Pennsylvania,"Dillsburg ,  Pennsylvania",,,,0,0,0
+Thompson,Glenn,Howard,Pennsylvania,"Howard ,  Pennsylvania",,,,0,0,0
+Costello,Ryan,West Chester,Pennsylvania,"West Chester ,  Pennsylvania",,,,0,0,0
+Meehan,Patrick,Drexel Hill,Pennsylvania,"Drexel Hill ,  Pennsylvania",,,,0,0,0
+Fitzpatrick,Michael,Levittown,Pennsylvania,"Levittown ,  Pennsylvania",,,,0,0,0
+Shuster,Bill,Hollidaysburg,Pennsylvania,"Hollidaysburg ,  Pennsylvania",,,,0,0,0
+Marino,Tom,Williamsport,Pennsylvania,"Williamsport ,  Pennsylvania",,,,0,0,0
+Barletta,Lou,Hazleton,Pennsylvania,"Hazleton ,  Pennsylvania",,,,0,0,0
+Rothfus,Keith,Sewickley,Pennsylvania,"Sewickley ,  Pennsylvania",,,,0,0,0
+Boyle,Brendan,Philadelphia,Pennsylvania,"Philadelphia ,  Pennsylvania",,,,0,0,0
+Doyle,Michael,Pittsburgh,Pennsylvania,"Pittsburgh ,  Pennsylvania",,,,0,0,0
+Dent,Charles,Allentown,Pennsylvania,"Allentown ,  Pennsylvania",,,,0,0,0
+Pitts,Joseph,Kennett Square,Pennsylvania,"Kennett Square ,  Pennsylvania",,,,0,0,0
+Cartwright,Matt,Moosic,Pennsylvania,"Moosic ,  Pennsylvania",,,,0,0,0
+Murphy,Tim,Pittsburgh,Pennsylvania,"Pittsburgh ,  Pennsylvania",,,,0,0,0
+Pierluisi,Pedro,San Juan,Puerto Rico,"San Juan ,  Puerto Rico",,,,0,0,0
+Cicilline,David,Providence,Rhode Island,"Providence ,  Rhode Island",PVD,BOS,,199.6,68.1,0
+Langevin,James,Warwick,Rhode Island,"Warwick ,  Rhode Island",PVD,,,199.6,0,0
+Sanford,Mark,Charleston,South Carolina,"Charleston ,  South Carolina",CHS,,,183.1,0,0
+Wilson,Joe,Springdale,South Carolina,"Springdale ,  South Carolina",CAE,,,468.6,0,0
+Duncan,Jeff,Laurens,South Carolina,"Laurens ,  South Carolina",GSP,,,303.6,0,0
+Gowdy,Trey,Spartanburg,South Carolina,"Spartanburg ,  South Carolina",GSP,,,303.6,0,0
+Mulvaney,Mick,Lancaster,South Carolina,"Lancaster ,  South Carolina",CLT,CAE,,200.6,468.6,0
+Clyburn,James,Columbia,South Carolina,"Columbia ,  South Carolina",CHS,CAE,,183.1,468.6,0
+Rice,Tom,Myrtle Beach,South Carolina,"Myrtle Beach ,  South Carolina",MYR,,,0,0,0
+Noem,Kristi,Castlewood,South Dakota,"Castlewood ,  South Dakota",RAP,FSD,,483.6,255.6,0
+Roe,David,Johnson City,Tennessee,"Johnson City ,  Tennessee",TYS,,,318.6,0,0
+Duncan,John,Knoxville,Tennessee,"Knoxville ,  Tennessee",TYS,,,318.6,0,0
+Fleischmann,Charles,Chattanooga,Tennessee,"Chattanooga ,  Tennessee",CHA,TYS,,194.6,318.6,0
+DesJarlais,Scott,South Pittsburg,Tennessee,"South Pittsburg ,  Tennessee",CHA,BNA,,194.6,227.6,0
+Cooper,Jim,Nashville,Tennessee,"Nashville ,  Tennessee",BNA,,,227.6,0,0
+Black,Diane,Gallatin,Tennessee,"Gallatin ,  Tennessee",BNA,,,227.6,0,0
+Blackburn,Marsha,Brentwood,Tennessee,"Brentwood ,  Tennessee",BNA,,,227.6,0,0
+Fincher,Stephen,Frog Jump,Tennessee,"Frog Jump ,  Tennessee",MEM,,,158.6,0,0
+Cohen,Steve,Memphis,Tennessee,"Memphis ,  Tennessee",MEM,,,158.6,0,0
+Gohmert,Louie,Tyler,Texas,"Tyler ,  Texas",TYR,GGG,SHV,0,0,296.6
+Poe,Ted,Atascocita,Texas,"Atascocita ,  Texas",HOU,IAH,,198.6,381.6,0
+Johnson,Sam,Plano,Texas,"Plano ,  Texas",DAL,DFW,,138.1,138.1,0
+Ratcliffe,John,Heath,Texas,"Heath ,  Texas",DAL,DFW,,138.1,138.1,0
+Hensarling,Jeb,Dallas,Texas,"Dallas ,  Texas",DAL,DFW,,138.1,138.1,0
+Barton,Joe,Ennis,Texas,"Ennis ,  Texas",DAL,DFW,,138.1,138.1,0
+Culberson,John,Houston,Texas,"Houston ,  Texas",HOU,IAH,,198.6,381.6,0
+Brady,Kevin,The Woodlands,Texas,"The Woodlands ,  Texas",HOU,IAH,,198.6,381.6,0
+Green,Al,Houston,Texas,"Houston ,  Texas",HOU,IAH,,198.6,381.6,0
+McCaul,Michael,Austin,Texas,"Austin ,  Texas",AUS,,,189.63,0,0
+Conaway,K.,Midland,Texas,"Midland ,  Texas",MAF,,,269.6,0,0
+Granger,Kay,Fort Worth,Texas,"Fort Worth ,  Texas",DFW,DAL,,138.1,138.1,0
+Thornberry,Mac,Clarendon,Texas,"Clarendon ,  Texas",AMA,SPS,,259.6,0,0
+Weber,Randy,Friendswood,Texas,"Friendswood ,  Texas",HOU,IAH,,198.6,381.6,0
+Hinojosa,Rubí©n,McAllen,Texas,"McAllen ,  Texas",Sat,BRO,,249.6,238.6,0
+O'Rourke,Beto,El Paso,Texas,"El Paso ,  Texas",ELP,,,248.6,0,0
+Flores,Bill,Bryan,Texas,"Bryan ,  Texas",AUS,,,189.63,0,0
+Jackson Lee,Sheila,Houston,Texas,"Houston ,  Texas",HOU,IAH,,198.6,381.6,0
+Neugebauer,Randy,Lubbock,Texas,"Lubbock ,  Texas",LBB,ABI,,229.6,0,0
+Castro,Joaquin,San Antonio,Texas,"San Antonio ,  Texas",Sat,,,249.6,0,0
+Smith,Lamar,San Antonio,Texas,"San Antonio ,  Texas",AUS,Sat,,189.63,249.6,0
+Olson,Pete,Sugar Land,Texas,"Sugar Land ,  Texas",HOU,IAH,,198.6,381.6,0
+Hurd,Will,San Antonio,Texas,"San Antonio ,  Texas",Sat,ELP,,249.6,248.6,0
+Marchant,Kenny,Coppell,Texas,"Coppell ,  Texas",DFW,DAL,,138.1,138.1,0
+Williams,Roger,Austin,Texas,"Austin ,  Texas",AUS,,,189.63,0,0
+Burgess,Michael,Lewisville,Texas,"Lewisville ,  Texas",DFW,DAL,,138.1,138.1,0
+Farenthold,Blake,Corpus Christi,Texas,"Corpus Christi ,  Texas",CRP,,,261.6,0,0
+Cuellar,Henry,Laredo,Texas,"Laredo ,  Texas",HOU,IAH,,198.6,381.6,0
+Green,Gene,Houston,Texas,"Houston ,  Texas",HOU,IAH,,198.6,381.6,0
+Johnson,Eddie,Dallas,Texas,"Dallas ,  Texas",DFW,DAL,,138.1,138.1,0
+Carter,John,Round Rock,Texas,"Round Rock ,  Texas",AUS,,,189.63,0,0
+Sessions,Pete,Dallas,Texas,"Dallas ,  Texas",DFW,DAL,,138.1,138.1,0
+Veasey,Marc,Fort Worth,Texas,"Fort Worth ,  Texas",DFW,DAL,,138.1,138.1,0
+Vela,Filemon,Brownsville,Texas,"Brownsville ,  Texas",BRO,,,238.6,0,0
+Doggett,Lloyd,Austin,Texas,"Austin ,  Texas",AUS,Sat,,189.63,249.6,0
+Babin,Brian,Woodville,Texas,"Woodville ,  Texas",IAH,HOU,,381.6,198.6,0
+Bishop,Rob,Brigham City,Utah,"Brigham City ,  Utah",SLC,,,178.6,0,0
+Stewart,Chris,Farmington,Utah,"Farmington ,  Utah",SLC,,,178.6,0,0
+Chaffetz,Jason,Alpine,Utah,"Alpine ,  Utah",SLC,,,178.6,0,0
+Love,Mia,Saratoga Springs,Utah,"Saratoga Springs ,  Utah",SLC,,,178.6,0,0
+Wittman,Robert,Montross,Virginia,"Montross ,  Virginia",,,,0,0,0
+Rigell,E.,Virginia Beach,Virginia,"Virginia Beach ,  Virginia",,,,0,0,0
+Scott,Robert,Newport News,Virginia,"Newport News ,  Virginia",,,,0,0,0
+Forbes,J.,Chesapeake,Virginia,"Chesapeake ,  Virginia",,,,0,0,0
+Hurt,Robert,Chatham,Virginia,"Chatham ,  Virginia",,,,0,0,0
+Goodlatte,Bob,Roanoke,Virginia,"Roanoke ,  Virginia",,,,0,0,0
+Brat,Dave,Glen Allen,Virginia,"Glen Allen ,  Virginia",,,,0,0,0
+Beyer,Donald,Alexandria,Virginia,"Alexandria ,  Virginia",,,,0,0,0
+Griffith,H.,Salem,Virginia,"Salem ,  Virginia",,,,0,0,0
+Comstock,Barbara,McLean,Virginia,"McLean ,  Virginia",,,,0,0,0
+Connolly,Gerald,Fairfax,Virginia,"Fairfax ,  Virginia",,,,0,0,0
+Plaskett,Stacey,St. Croix,Virgin Islands,"St. Croix ,  Virgin Islands",,,,0,0,0
+Welch,Peter,Norwich,Vermont,"Norwich ,  Vermont",BTV,,,136.6,0,0
+DelBene,Suzan,Medina,Washington,"Medina ,  Washington",SEA,,,177.6,0,0
+Larsen,Rick,Everett,Washington,"Everett ,  Washington",SEA,,,177.6,0,0
+Herrera Beutler,Jaime,Camas,Washington,"Camas ,  Washington",PDX,,,285.6,0,0
+Newhouse,Dan,Sunnyside,Washington,"Sunnyside ,  Washington",YKM,EAT,,441.6,392.6,0
+McMorris Rodgers,Cathy,Spokane,Washington,"Spokane ,  Washington",GEG,,,434.6,0,0
+Kilmer,Derek,Gig Harbor,Washington,"Gig Harbor ,  Washington",SEA,,,177.6,0,0
+McDermott,Jim,Seattle,Washington,"Seattle ,  Washington",SEA,,,177.6,0,0
+Reichert,David,Auburn,Washington,"Auburn ,  Washington",SEA,,,177.6,0,0
+Smith,Adam,Tacoma,Washington,"Tacoma ,  Washington",SEA,,,177.6,0,0
+Heck,Denny,Olympia,Washington,"Olympia ,  Washington",SEA,,,177.6,0,0
+Ryan,Paul,Janesville,Wisconsin,"Janesville ,  Wisconsin",MKE,MSN,,149.6,258.6,0
+Pocan,Mark,Madison,Wisconsin,"Madison ,  Wisconsin",MSN,,,258.6,0,0
+Kind,Ron,La Crosse,Wisconsin,"La Crosse ,  Wisconsin",LSE,MSP,,0,113.1,0
+Moore,Gwen,Milwaukee,Wisconsin,"Milwaukee ,  Wisconsin",MKE,,,149.6,0,0
+Sensenbrenner,F.,Menomonee Falls,Wisconsin,"Menomonee Falls ,  Wisconsin",MKE,,,149.6,0,0
+Grothman,Glenn,Campbellsport,Wisconsin,"Campbellsport ,  Wisconsin",MKE,,,149.6,0,0
+Duffy,Sean,Wausau,Wisconsin,"Wausau ,  Wisconsin",MSP,DLH,,113.1,290.6,0
+Ribble,Reid,Sherwood,Wisconsin,"Sherwood ,  Wisconsin",GRB,,,162.6,0,0
+McKinley,David,Wheeling,West Virginia,"Wheeling ,  West Virginia",,,,0,0,0
+Mooney,Alexander,Charles Town,West Virginia,"Charles Town ,  West Virginia",,,,0,0,0
+Jenkins,Evan,Huntington,West Virginia,"Huntington ,  West Virginia",,,,0,0,0
+Lummis,Cynthia,Cheyenne,Wyoming,"Cheyenne ,  Wyoming",CPR,LAR,CYS,300.6,401.6,495.6
